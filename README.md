@@ -114,6 +114,6 @@ AI-assisted content was reviewed, corrected, and approved by the trainee. Final 
 <div align="center">
 
 **L0-FGP — Generative AI for Workplace Productivity**  
-Final Course Portfolio for [@SDAIAAcademy](https://github.com/SDAIAAcademy)
+Final Course Portfolio for https://github.com/SDAIAAcademy
 
 </div>
